@@ -1,0 +1,8 @@
+{
+  "name": "나만의 전자책 기획 카드",
+  "description": "성인 예비 작가를 위한 맞춤형 전자책 기획 카드 작성 웹앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
